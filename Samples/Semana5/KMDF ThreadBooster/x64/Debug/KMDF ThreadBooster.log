@@ -1,0 +1,9 @@
+﻿  Building 'KMDF ThreadBooster' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  ThreadBooster.cpp
+  KMDF ThreadBooster.vcxproj -> C:\WorkshopDevDrivers\KMDF ThreadBooster\x64\Debug\KMDFThreadBooster.sys
+  Done Adding Additional Store
+  Successfully signed: C:\WorkshopDevDrivers\KMDF ThreadBooster\x64\Debug\KMDFThreadBooster.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  

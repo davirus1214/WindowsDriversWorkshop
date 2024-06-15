@@ -1,0 +1,9 @@
+﻿  Building 'Semana3KmdfProcess' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Semana3KmdfProcess.cpp
+  Semana3KmdfProcess.vcxproj -> C:\WorkshopDevDrivers\Semana3KmdfProcess\x64\Debug\Semana3KmdfProcess.sys
+  Done Adding Additional Store
+  Successfully signed: C:\WorkshopDevDrivers\Semana3KmdfProcess\x64\Debug\Semana3KmdfProcess.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  
