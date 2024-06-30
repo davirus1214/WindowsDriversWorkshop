@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkshopDevDrivers\\ProcessPower\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273F4E85-64FD-4997-A95C-59C0A88413FF}|..\\Test\\Test.vcxproj|C:\\WorkshopDevDrivers\\Test\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F5373-65B8-4C63-808A-EA326AEFACE2}|ProcessPower.vcxproj|C:\\WorkshopDevDrivers\\ProcessPower\\ProcessPower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221F5373-65B8-4C63-808A-EA326AEFACE2}|ProcessPower.vcxproj|solutionrelative:ProcessPower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221F5373-65B8-4C63-808A-EA326AEFACE2}|ProcessPower.vcxproj|C:\\WorkshopDevDrivers\\ProcessPower\\ProcessPowerCommon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221F5373-65B8-4C63-808A-EA326AEFACE2}|ProcessPower.vcxproj|solutionrelative:ProcessPowerCommon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessPowerCommon.h",
+              "DocumentMoniker": "C:\\WorkshopDevDrivers\\ProcessPower\\ProcessPowerCommon.h",
+              "RelativeDocumentMoniker": "ProcessPowerCommon.h",
+              "ToolTip": "C:\\WorkshopDevDrivers\\ProcessPower\\ProcessPowerCommon.h",
+              "RelativeToolTip": "ProcessPowerCommon.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T23:47:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\WorkshopDevDrivers\\Test\\Test.cpp",
+              "RelativeDocumentMoniker": "..\\Test\\Test.cpp",
+              "ToolTip": "C:\\WorkshopDevDrivers\\Test\\Test.cpp",
+              "RelativeToolTip": "..\\Test\\Test.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T20:35:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessPower.cpp",
+              "DocumentMoniker": "C:\\WorkshopDevDrivers\\ProcessPower\\ProcessPower.cpp",
+              "RelativeDocumentMoniker": "ProcessPower.cpp",
+              "ToolTip": "C:\\WorkshopDevDrivers\\ProcessPower\\ProcessPower.cpp",
+              "RelativeToolTip": "ProcessPower.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T21:10:16.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

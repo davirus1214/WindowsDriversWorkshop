@@ -1,0 +1,9 @@
+﻿  Building 'ProcessPower' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  ProcessPower.cpp
+  ProcessPower.vcxproj -> C:\WorkshopDevDrivers\ProcessPower\x64\Debug\ProcessPower.sys
+  Done Adding Additional Store
+  Successfully signed: C:\WorkshopDevDrivers\ProcessPower\x64\Debug\ProcessPower.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  

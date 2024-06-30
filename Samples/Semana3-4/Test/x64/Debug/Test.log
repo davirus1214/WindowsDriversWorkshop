@@ -1,0 +1,3 @@
+﻿  Test.cpp
+C:\WorkshopDevDrivers\Test\Test.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> C:\WorkshopDevDrivers\ProcessPower\x64\Debug\Test.exe

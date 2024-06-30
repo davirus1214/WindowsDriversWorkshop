@@ -1,0 +1,1 @@
+C:\WorkshopDevDrivers\ProcessPower\x64\Debug\ProcessPower.sys
