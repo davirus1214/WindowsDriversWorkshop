@@ -16,5 +16,5 @@ The following link contains the necessary steps to set up the development enviro
 
 It is important to ensure that the versions of the SDK (Windows Software Development Kit) and the WDK (Windows Driver Kit) match for them to work together correctly. Using incompatible versions can cause issues during driver development and compilation.
 
-[Download the Windows Driver Kit] (https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
+[Download the Windows Driver Kit](https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk)
 
