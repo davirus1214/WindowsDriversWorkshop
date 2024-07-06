@@ -1,5 +1,7 @@
 # KMDF Thread Booster Driver Sample
 
+This driver is a modification of the sample driver provided by Pavel Yosifovich in the Book "Windows Kernel Programming 2nd ed 2023" at chapter 4.
+
 The current driver sample sets the thread priority between values 1 to 31 regardless of its base priority.
 
 ## KMDF ThreadBooster

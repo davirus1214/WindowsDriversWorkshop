@@ -1,5 +1,7 @@
 # KMDF Process Power Driver Sample
 
+This driver is a modification of the sample driver provided by Pavel Yosifovich in the video [""Windows Drivers Internals" workshop by Pavel Yosifovich"](https://www.youtube.com/watch?v=qtklO16zttE).
+
 The current driver sample allows opening a handle to any process without restrictions, displaying the list of modules contained within that process. To use the driver, a client application has been created which runs from the console, passing the process ID as an argument.
 
 ## ProcessPower
